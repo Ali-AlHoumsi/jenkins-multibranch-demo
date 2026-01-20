@@ -28,3 +28,4 @@ pipeline {
             echo 'Archiving completed successfully!'
         }
     }
+}
